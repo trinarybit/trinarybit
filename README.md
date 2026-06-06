@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @trinarybit
 - 👀 I’m interested in ...math, automation
-- 🌱 I’m currently learning ...Tableau, SAS, Databricks, SQL, Python, and to hate visio
+- 🌱 I’m currently learning ...Python, R, Tableau, Databricks, SQL, and to hate visio
 - 💞️ I’m looking to collaborate on ...making things work less bad or in different ways
-- 📫 How to reach me ...twitter?
+- 📫 How to reach me ...wait do folks communicate on this?
 
 <!---
 trinarybit/trinarybit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
